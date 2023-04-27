@@ -1,4 +1,3 @@
-# Size Limit [![Cult Of Martians][cult-img]][cult]
+# Welcome to Sonata Software Limited
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+This is the Official Sonata Software's GitHub Enterprise
